@@ -44,11 +44,6 @@
   ],
   "actions": [
     {
-      "type": "Action.OpenUrl",
-      "title": "%tourButtonText%",
-      "url": "%tourUrl%"
-    },
-    {
       "type": "Action.Submit",
       "title": "%pauseMatchesText%",
       "data": {
